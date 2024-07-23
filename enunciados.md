@@ -5,8 +5,12 @@ Agora que você aprendeu a utilizar o hook de estado, sua tarefa é criar um com
 
 import { useState } from 'react'
 
-// função utilizada dentro do compoennte.
+// função utilizada dentro do componente.
 const [estado, setEstado] = useState([valor-inicial]);
+
+Pasta - components
+Contador.css
+Contador.jsx
 
 [M2S07] - Ex.2- Utilize o useEffect para carregar o valor inicial de um estado
 
@@ -19,12 +23,32 @@ useEffect(() => {
 // todo
 }, [])
 
+Pasta - components
+Noticias.jsx
+Noticias.css
+
 [M2S07] Ex.3 - Adicione um item a lista do estado
 Desenvolva dois elementos: um input e um botão. Utilize o evento onChange do input para capturar seu valor a cada alteração e adicionar esse valor a um estado. Ao clicar no botão, recupere esse valor do estado e adicione-o a um estado de lista, o qual deve ser uma matriz de strings.
 
 
-
 [BONUS] - Aproveite esse estado de lista e renderize dentro de uma tag ul com tag li.
+
+Pasta - components
+Lista.jsx
+Lista.css
+
+
+
+
+
+
+**** FAZER ****
+
+
+
+
+
+
 
 [M2S07] - Ex.4 - Validação de Formulário Simples
 Crie um formulário simples com campos de entrada para nome, e-mail e idade. Utilize useState para armazenar os valores dos campos e useEffect para validar os dados do formulário. O objetivo é apresentar uma mensagem na tela quando o formulário estiver totalmente preenchido.
