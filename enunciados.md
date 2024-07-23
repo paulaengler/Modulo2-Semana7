@@ -24,7 +24,7 @@ Desenvolva dois elementos: um input e um botão. Utilize o evento onChange do in
 
 
 
-[BONUS] - Aproveite esse estado de lista e renderize dentro de uma ul com li.
+[BONUS] - Aproveite esse estado de lista e renderize dentro de uma tag ul com tag li.
 
 [M2S07] - Ex.4 - Validação de Formulário Simples
 Crie um formulário simples com campos de entrada para nome, e-mail e idade. Utilize useState para armazenar os valores dos campos e useEffect para validar os dados do formulário. O objetivo é apresentar uma mensagem na tela quando o formulário estiver totalmente preenchido.
