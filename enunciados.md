@@ -38,18 +38,6 @@ Lista.jsx
 Lista.css
 
 
-
-
-
-
-**** FAZER ****
-
-
-
-
-
-
-
 [M2S07] - Ex.4 - Validação de Formulário Simples
 Crie um formulário simples com campos de entrada para nome, e-mail e idade. Utilize useState para armazenar os valores dos campos e useEffect para validar os dados do formulário. O objetivo é apresentar uma mensagem na tela quando o formulário estiver totalmente preenchido.
 
@@ -86,6 +74,18 @@ Utilize Object.values() para recuperar os valores do estado e percorra a lista p
 Use reduce() da API JavaScript para somar +1 caso o valor de cada campo seja diferente de nulo ou vazio.
 
 Se a soma resultante for igual a 3, isso indica que o formulário foi totalmente preenchido.
+
+
+Pasta - components
+Formulario.jsx
+Formulario.css
+
+
+
+
+
+
+
 
 [M2S07] - Ex.5 - Crie um componente controlado
 

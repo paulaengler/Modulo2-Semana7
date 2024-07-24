@@ -1,5 +1,7 @@
 import './App.css'
 import Contador from './components/Contador'
+import Formulario from './components/Formulario'
+import InputControlado from './components/InputControlado'
 import Lista from './components/Lista'
 import Noticias from './components/Noticias'
 
@@ -16,6 +18,12 @@ function App() {
 
     <p> Exercício 3 </p>
     <Lista></Lista>
+
+    <p> Exercício 4 </p>
+    <Formulario></Formulario>
+
+    <p> Exercício 5 </p>
+    <InputControlado></InputControlado>
     
     </>
   )
